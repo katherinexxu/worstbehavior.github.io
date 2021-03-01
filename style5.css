@@ -1,0 +1,60 @@
+body{
+	background: #2D3B4E;
+}
+h1{
+position: absolute;
+width: 365px;
+height: 180px;
+left: 501px;
+top: 314px;
+
+font-family: Baskerville;
+font-style: italic;
+font-weight: bold;
+font-size: 75px;
+line-height: 85px;
+text-align: center;
+
+color: #442828;
+
+mix-blend-mode: difference;
+}
+
+
+#div1 {
+  background: url(bus.jpeg);
+  position: absolute;
+width: 5px;
+height: 8px;
+left: 866px;
+top: 11px;
+  position: fixed;
+}
+
+#div2 {
+background: url(midnight.jpeg) ;
+position: absolute;
+width: 574px;
+height: 884px;
+float-right {
+  position: absolute;
+  right: 0;  /* no float necessary */
+}
+}
+
+p{
+	position: absolute;
+width: 442px;
+height: 779px;
+left: 471px;
+top: 63px;
+
+font-family: Baskerville;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 15px;
+text-align: center;
+
+color: #000000;
+}

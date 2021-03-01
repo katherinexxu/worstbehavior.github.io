@@ -1,0 +1,181 @@
+body{
+	background: #000000;
+}
+
+p{
+	position: absolute;
+width: 1076px;
+height: 591px;
+left: 28px;
+top: -8px;
+
+font-family: Baskerville;
+font-style: normal;
+font-weight: bold;
+font-size: 100px;
+line-height: 41px;
+
+color: #9C0404;
+}
+
+p1{
+position: absolute;
+width: 984px;
+height: 53px;
+left: 93px;
+top: 75px;
+
+font-family: SabbathBlack OT;
+font-style: normal;
+font-weight: 800;
+font-size: 56px;
+line-height: 56px;
+
+color: #FFFFFF;
+
+border: 1px solid #000000;
+}
+
+p2{
+position: absolute;
+width: 984px;
+height: 53px;
+left: 173px;
+top: 128px;
+
+font-family: SabbathBlack OT;
+font-style: normal;
+font-weight: 800;
+font-size: 56px;
+line-height: 56px;
+
+color: #FFFFFF;
+
+border: 1px solid #000000;
+
+}
+
+p3{position: absolute;
+width: 984px;
+height: 53px;
+left: 253px;
+top: 181px;
+
+font-family: SabbathBlack OT;
+font-style: normal;
+font-weight: 800;
+font-size: 56px;
+line-height: 56px;
+
+color: #FFFFFF;
+
+border: 1px solid #000000;
+}
+
+p4{
+position: absolute;
+width: 984px;
+height: 53px;
+left: 333px;
+top: 234px;
+
+font-family: SabbathBlack OT;
+font-style: normal;
+font-weight: 800;
+font-size: 56px;
+line-height: 56px;
+
+color: #FFFFFF;
+
+border: 1px solid #000000;
+}
+
+
+p5{position: absolute;
+width: 984px;
+height: 53px;
+left: 413px;
+top: 287px;
+
+font-family: SabbathBlack OT;
+font-style: normal;
+font-weight: 800;
+font-size: 56px;
+line-height: 56px;
+
+color: #FFFFFF;
+
+border: 1px solid #000000;
+}
+
+p6{
+position: absolute;
+width: 984px;
+height: 53px;
+left: 493px;
+top: 340px;
+
+font-family: SabbathBlack OT;
+font-style: normal;
+font-weight: 800;
+font-size: 56px;
+line-height: 56px;
+
+color: #FFFFFF;
+
+border: 1px solid #000000;
+
+}
+
+p7{
+position: absolute;
+width: 984px;
+height: 53px;
+left: 573px;
+top: 393px;
+
+font-family: SabbathBlack OT;
+font-style: normal;
+font-weight: 800;
+font-size: 56px;
+line-height: 56px;
+
+color: #FFFFFF;
+
+border: 1px solid #000000;
+}
+
+p8{position: absolute;
+width: 984px;
+height: 53px;
+left: 653px;
+top: 446px;
+
+font-family: SabbathBlack OT;
+font-style: normal;
+font-weight: 800;
+font-size: 56px;
+line-height: 56px;
+
+color: #FFFFFF;
+
+border: 1px solid #000000;
+}
+
+p9{position: absolute;
+width: 984px;
+height: 53px;
+left: 733px;
+top: 499px;
+
+font-family: SabbathBlack OT;
+font-style: normal;
+font-weight: 800;
+font-size: 56px;
+line-height: 56px;
+
+color: #FFFFFF;
+
+border: 1px solid #000000;
+}
+

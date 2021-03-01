@@ -1,0 +1,37 @@
+h1{
+	position: absolute;
+width: 981px;
+height: 254px;
+left: 272px;
+top: 0px;
+
+font-family: Baskerville;
+font-style: italic;
+font-weight: 600;
+font-size: 144px;
+line-height: 165px;
+text-align: right;
+
+color: #976E45;
+}
+
+body {
+position: absolute;
+width: 600px;
+height: 300px;
+left: 0px;
+top: 0px;
+
+font-family: Baskerville;
+font-style: italic;
+font-weight: 600;
+font-size: 20px;
+line-height: 138px;
+text-align: right;
+
+color: #E5AB62;
+	background-color: #2D2424;} 
+
+}
+
+
